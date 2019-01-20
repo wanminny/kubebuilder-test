@@ -1,0 +1,3 @@
+version: "1"
+domain: example.com
+repo: test
